@@ -1,3 +1,7 @@
+**Hi there 👋**
+
+![image](https://github.com/CallMeMarcellino/CallMeMarcellino/assets/47804949/a2b6ae06-9aa3-4d34-94d6-1b6c708cc888)
+
 > ## whoami
 
 ### Socials (you can click on them):
