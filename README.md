@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="hi-shrek.gif" width="500" height="400"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpoBrtrbMfloHXXhz-Fwb_R2HsKVHOcwwu7fsIMfxGQ&s" width="500" height="400"/>
 </p>
 
 > # whoami
