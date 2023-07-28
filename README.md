@@ -1,6 +1,7 @@
-**Hi there 👋**
-
-![image](https://github.com/CallMeMarcellino/CallMeMarcellino/assets/47804949/a2b6ae06-9aa3-4d34-94d6-1b6c708cc888)
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="wave-hi.gif" width="300" height="300"/>
+</p>
 
 > ## whoami
 
