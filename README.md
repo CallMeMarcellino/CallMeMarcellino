@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/1105707559526092820/97e5698ab538a170ae53070f05588591.png?size=1024&width=0&height=320" width="500" height="400"/>
+  <img src="hi-shrek.gif?size=1024&width=0&height=320" width="500" height="400"/>
 </p>
 
 > # whoami
