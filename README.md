@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_k7ONoG2lcuywv5ggp9zFl4pVhv0zK1kufpMyFA0sg&s" width="500" height="400"/>
+  <img src="https://cdn.discordapp.com/icons/1105707559526092820/97e5698ab538a170ae53070f05588591.png?size=1024&width=0&height=320" width="500" height="400"/>
 </p>
 
 > # whoami
