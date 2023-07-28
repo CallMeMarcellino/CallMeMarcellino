@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="wave-hi.gif" width="300" height="300"/>
+  <img src="hi-shrek.gif" width="500" height="400"/>
 </p>
 
 > # whoami
