@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/15178513?v=4" width="500" height="400"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_k7ONoG2lcuywv5ggp9zFl4pVhv0zK1kufpMyFA0sg&s" width="500" height="400"/>
 </p>
 
 > # whoami
